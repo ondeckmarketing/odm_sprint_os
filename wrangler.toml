@@ -1,0 +1,9 @@
+name = "odm-sprint-os"
+pages_build_output_dir = "."
+compatibility_date = "2024-09-25"
+
+# Binding name MUST be "DB" to match the functions code.
+[[d1_databases]]
+binding = "DB"
+database_name = "odm-sprint"
+database_id = "PASTE_YOUR_D1_DATABASE_ID_HERE"
